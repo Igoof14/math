@@ -13,7 +13,7 @@
        <td>1</td>
        <td>
           <b>
-             <a href="https://github.com/Igoof14/math/tree/master/Linear_algebra/Applied_Linear_Algebra_for_DS">
+             <a href="https://github.com/Igoof14/math/tree/master/Linear_algebra/Practical_Linear_Algebra_for_DS">
              Practical linear algebra for DS </a>
           </b>
      </td>
