@@ -25,7 +25,20 @@
         <code>numpy</code><br/>
         <code>matplotlib</code><br/>
     </td>
-    
+    <tr>
+       <td>2</td>
+       <td>
+          <b>
+             <a href="https://github.com/Igoof14/math/tree/master/Linear_algebra/Practical_Linear_Algebra_for_DS">
+             Yandex practicum - linear algebra </a>
+          </b>
+     </td>
+     <td>
+        this folder contains notes for the linear algebra course
+    </td>
+    <td>
+        <code>numpy</code><br/>
+    </td>
 </td>
 </tr>
 </tbody>
