@@ -29,7 +29,7 @@
        <td>2</td>
        <td>
           <b>
-             <a href="https://github.com/Igoof14/math/tree/master/Linear_algebra/Practical_Linear_Algebra_for_DS">
+             <a href="https://github.com/Igoof14/math/tree/master/Linear_algebra/Yandex_practicum_linear_algebra">
              Yandex practicum - linear algebra </a>
           </b>
      </td>
